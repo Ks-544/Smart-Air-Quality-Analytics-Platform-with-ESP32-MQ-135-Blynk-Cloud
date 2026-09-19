@@ -41,6 +41,9 @@ MQ-135 Sensor → ESP32 → Wi-Fi → Blynk Cloud → Real-Time Dashboard
 - MQ-135 sensor interfacing
 - Wi-Fi connectivity
 - Cloud-based data visualization
+![block diagram](images/dashboard.png)
+
+
 - Real-time monitoring through Blynk dashboard
 
 ## My Contribution
